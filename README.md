@@ -1,0 +1,1 @@
+Please note though the standard way of making a email template with images is to upload the image to a domain / space in net and then linking it through a link , for this process to show the images i used i have attached the images folder.
